@@ -1,0 +1,11 @@
+#--------------------------------------------------------#
+# Lista de domínios do Facebook para Pi-hole
+# 
+# Lista feita pela RESET TI SUPORTE TECNICO E SOLUCOES EM TECNOLOGIA LTDA
+#--------------------------------------------------------#
+
+
+*.cdninstagram.com
+*.instagram.com
+*.threads.net
+*.threadsapp.net

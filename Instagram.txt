@@ -10,5 +10,7 @@
 *.threads.net
 *.threadsapp.net
 
+instagram.com
+instagram.com.br
 www.instagram.com
 www.instagram.com.br

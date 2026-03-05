@@ -41,3 +41,5 @@ msngr.com
 msngr.com.br
 
 www.facebook.com
+www.facebook.com.br
+static.xx.fbcdn.net

@@ -39,3 +39,5 @@ messenger.com
 messenger.com.br
 msngr.com
 msngr.com.br
+
+www.facebook.com
